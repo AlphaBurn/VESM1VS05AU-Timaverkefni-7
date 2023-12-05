@@ -3,6 +3,9 @@ from time import sleep_ms
 from random import randint
 
 takki_A = Pin(18, Pin.IN, Pin.PULL_UP)
+takki_B = Pin(7, Pin.IN, Pin.PULL_UP)
+takki_C = Pin(8, Pin.IN, Pin.PULL_UP)
+takki_D = Pin(10, Pin.IN, Pin.PULL_UP)
 
 teningur_ledA = Pin(38, Pin.OUT)
 teningur_ledB = Pin(17, Pin.OUT)
@@ -83,13 +86,41 @@ while True:
     
     if takki_A.value() == 0:
         tala = randint(1,6)
+        print("takki")
         syna_tening(tala)
         sleep_ms(100)
+        
+     
+    if takki_B.value() == 0:
+        tala = randint(1,6)
+        print("takki")
+        syna_tening(tala)
+        sleep_ms(100)
+    
+     
+    if takki_C.value() == 0:
+        tala = randint(1,6)
+        print("takki")
+        syna_tening(tala)
+        sleep_ms(100)
+    
+     
+    if takki_D.value() == 0:
+        tala = randint(1,6)
+        print("takki")
+        syna_tening(tala)
+        sleep_ms(100)
+        
+        
         
     
         
         
         
+
+
+
+
 
 
 
