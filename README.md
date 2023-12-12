@@ -32,3 +32,11 @@
 # Mynd af spilið og lóðningu
 
 <img src="Myndir/IMG_2553.jpeg" width="50%" height="50%">
+
+# Inkscape Hönnunarteikning .svg
+
+<img src="bordspil_lok.svg" width="50%" height="50%">
+
+# Tengil á main.py
+
+--> [main.py](Kodi/main.py)
