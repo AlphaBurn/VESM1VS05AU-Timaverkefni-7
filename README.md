@@ -22,3 +22,7 @@
 # Prototýpa fyrir spilið án takka
 
 [![Watch the video](https://img.youtube.com/vi/a0qwgq5xRXo/hqdefault.jpg)](https://www.youtube.com/embed/a0qwgq5xRXo)
+
+# Mynd af spilið og lóðningu
+
+<img src="Myndir/IMG_2553.jpeg" width="50%" height="50%">
