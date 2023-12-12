@@ -21,3 +21,4 @@
 
 # Prototýpa fyrir spilið án takka
 
+[![Watch the video](https://img.youtube.com/vi/a0qwgq5xRXo/hqdefault.jpg)](https://www.youtube.com/embed/a0qwgq5xRXo)
